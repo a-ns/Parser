@@ -1,0 +1,9 @@
+begin
+a = a +
+5 * (d/
+f) + fff*(33 - 2) +
+66 * a_6; gg = FFFFFF; ~I'm a comment
+re = ~I'm a comment
+5 + 2;
+end
+~I'm a comment
